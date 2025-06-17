@@ -35,7 +35,7 @@ function Header() {
             marginTop: "auto",
           }}
         />
-        <b className="headerTitle">S-02 Station Structure</b>
+        <b className="headerTitle">S-03c Station Structure</b>
         <div className="date">{!asOfDate ? "" : "As of " + asOfDate}</div>
 
         {/* Segmented List component */}
